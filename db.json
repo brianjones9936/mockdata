@@ -15,14 +15,14 @@
       "value": "fat"
     }
   ],
-  "dessertsSmall": [
+  "desserts": [
     {
       "dName": "Frozen Yogurt",
       "calories": 159,
       "fat" : 6.0
     },
     {
-      "dName": "Ice cream sandwich",
+      "dName": "Ice cream",
       "calories": 237,
       "fat": 9.0
     },
