@@ -17,16 +17,16 @@
   ],
   "desserts": [
     {
+      "id": 1,
       "dName": "Frozen Yogurt",
       "calories": 159,
-      "fat" : 6.0,
-      "id": 1
+      "fat" : 6.0
     },
     {
+      "id": 2,
       "dName": "Ice cream",
       "calories": 237,
-      "fat": 9.0,
-      "id": 2
+      "fat": 9.0
     }
   ]
 }
