@@ -15,7 +15,7 @@
       "value": "fat"
     }
   ],
-  "foodstuff": [
+  "smallDesserts": [
     {
       "dName": "Frozen Yogurt",
       "calories": 159,
