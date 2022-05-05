@@ -24,9 +24,15 @@
     },
     {
       "id": 2,
-      "dName": "Ice cream",
+      "dName": "Ice cream cone",
       "calories": 237,
       "fat": 9.0
+    },
+    {
+      "id": 3,
+      "dName": "Ice cream sandwich",
+      "calories": 360,
+      "fat": 12.0
     }
   ]
 }
